@@ -9,7 +9,7 @@
 
 ### **My Code Experience:** 
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-squarer&logo=git&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-squarer&logo=git&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 [![Bas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bittzt&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&theme=radical)](https://Bittzt.github.io/pages/)                                                
 
